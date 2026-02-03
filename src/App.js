@@ -3,7 +3,7 @@ import {
   TrendingUp, Activity, DollarSign, Users, ChevronRight, Search, Menu, X,
   Shield, Zap, Globe, BarChart3, Wallet, Trophy, Clock, Star,
   CheckCircle, ArrowUpRight, ArrowDownRight, Eye, MessageCircle,
-  Award, Target, Flame, TrendingDown, Lock, Unlock, Bell, Settings, ChevronDown
+  Target, Flame, Bell, Settings, ChevronDown
 } from 'lucide-react';
 import './App.css';
 
